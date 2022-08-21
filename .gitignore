@@ -1,3 +1,8 @@
+# build folders
+**/*dist
+**/*lib
+**/*build
+
 # Logs
 logs
 *.log
